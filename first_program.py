@@ -1,0 +1,1 @@
+print("hello world ",50+43,34-45)
